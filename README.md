@@ -2,7 +2,7 @@
 
 ## Desarrollado para [BBVA Bancomer](https://www.bancomer.com/)
 
-![BBVA Plan](assets/images/BBVA-plan.jpg)
+![portada](https://user-images.githubusercontent.com/32855378/41116523-2b044df2-6a50-11e8-8a10-ed8fd3c199a9.png)
 
 * **Track:** UX Specialization
 * **Sprint 06:** UX PROCESS
@@ -32,7 +32,7 @@ El mapa de empatía nos permitió conocer quién es el cliente, qué problema ti
 
 
 ### User persona
-Para definir a nuestro user persona, realizamos una primera encuesta, con la cual pudimos perfilar al usuario de la aplicación.  [Encuesta 1. Perfil de usuario y hábitos de ahorro](https://docs.google.com/forms/d/1JZ4vUEQPfACjVFVtUy3TG4yQjZq19DVZchVp3yDnCuI/edit#responses)
+Para definir a nuestro user persona, realizamos una primera encuesta, con la cual pudimos perfilar al usuario de la aplicación.         ![screencapture-docs-google-forms-d-1jz4vueqpfacjvfvtuy3tg4yqjzq19dvzchvp3ydncui-edit-2018-06-07-12_22_42](https://user-images.githubusercontent.com/32855378/41115734-0074445e-6a4e-11e8-95e0-e2417fca7ae5.png)
 
 #### Insights
 1. 51.5% prefiere ahorrar en el banco
